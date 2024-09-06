@@ -1,0 +1,5 @@
+1,Nan roti,30
+3,veg roll,90
+4,chicken roll,150
+5,veg pizza,200
+67 , chicken tikka , 230
